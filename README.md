@@ -12,4 +12,4 @@ You must first download the dataset and unrar/unzip it in the home folder of thi
 # Dataset Statistics
 This portion expalins KMD dataset statistics.
 
-Distribution of train-test-validation split in the 21 territories of KMD. <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/Fig19.png">
+Distribution of train-test-validation split in the 21 territories of KMD. <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig19.png">
