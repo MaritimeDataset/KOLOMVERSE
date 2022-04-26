@@ -20,12 +20,16 @@ lighthouse (103,358 instances) and wind farm (338,673 instances). <img src= "htt
 # Variations in the dataset
 Image samples with illumination variation: 
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig16(2).png">
+
 Image samples with occlusion variation: 
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig11.png">
+
 Image samples with backgorund variation: 
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig15(2).png">
+
 Image samples with viewpoint variation: 
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig10.png">
+
 Image samples with proportion variation: 
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig12.png">
 
