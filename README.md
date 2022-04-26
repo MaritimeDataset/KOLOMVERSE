@@ -11,7 +11,7 @@ To run the object detectors for training and evaluation, you must first download
 
 https://docs.google.com/forms/d/e/1FAIpQLScaZT7D7nSwNR9n2rco4FaoqEvQQVR9PreNnn92PIxxWlSD4g/viewform. 
 
-Once we have your information like email ID and purpose of using our dataset, we shall mail you the link to download our dataset.
+Once we have your information, we shall mail you the link to download our dataset.
 
 # Explanation of codes and scripts
 (This part is under construction.)
