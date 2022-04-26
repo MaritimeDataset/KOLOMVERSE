@@ -1,5 +1,5 @@
 (This page is under construction.)
-This is a repository to train and reproduce results of the paper submitted to Datasets and Benchmarks Track of NeurIPS 2022 titled "KMD: A large-scale public dataset for maritime object detection". 
+This is a repository that contains codes to train and reproduce results of the paper submitted to Datasets and Benchmarks Track of NeurIPS 2022 titled "KMD: A large-scale public dataset for maritime object detection". 
 
 # KMD-Maritime-Dataset
 KMD is a large-scale object detection dataset in the maritime domain. It has a total of 2,151,470 4K resolution images categorized into 5 different
