@@ -10,9 +10,12 @@ You must first download the dataset and unrar/unzip it in the home folder of thi
 (This part is under construction.)
 
 # Dataset Statistics
-This portion expalins KMD dataset statistics.
+This portion explains KMD dataset statistics.
 
 Distribution of train-test-validation split in the 21 territories of KMD. <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig19.png">
-The KMD has a total of 2,151,470 4K images and contains images categorized into 5 different200
-classes namely ship (3,791,372 instances), buoy (67,048 instances), fishnet buoy (273,051 instances),201
+The KMD has a total of 2,151,470 4K images and contains images categorized into 5 different
+classes namely ship (3,791,372 instances), buoy (67,048 instances), fishnet buoy (273,051 instances), 
 lighthouse (103,358 instances) and wind farm (338,673 instances). <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig4-1.png"> <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig4-2.png">
+
+# Variations in the dataset
+Image samples with illumination variation <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig11.png">
