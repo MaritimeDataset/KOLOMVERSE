@@ -18,4 +18,11 @@ classes namely ship (3,791,372 instances), buoy (67,048 instances), fishnet buoy
 lighthouse (103,358 instances) and wind farm (338,673 instances). <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig4-1.png"> <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig4-2.png">
 
 # Variations in the dataset
-Image samples with illumination variation <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig11.png">
+Image samples with illumination variation 
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig10.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig11.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig12.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig13.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig14.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig15(2).png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig16(2).png">
