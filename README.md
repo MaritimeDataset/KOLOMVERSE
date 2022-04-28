@@ -15,28 +15,28 @@ Once accepted, we shall mail you the link to download our dataset.
 
 # Dataset Statistics
 
-Distribution of train-test-validation split in the 21 territories of KMD. <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig19.png">
+Distribution of train-test-validation split in the 21 territories of KMD. <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig19.png">
 The KMD images are categorized into 5 different
 classes namely ship (3,791,372 instances), buoy (67,048 instances), fishnet buoy (273,051 instances), 
-lighthouse (103,358 instances) and wind farm (338,673 instances). <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig4-1.png">
+lighthouse (103,358 instances) and wind farm (338,673 instances). <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig4-1.png">
 
 # Variations in the dataset
 KMD has variations in illumination, viewpoint, occlusion, background, scale and proportion that makes object detectors trained
 with KMD more suitable for real time applications.
 
 Image samples with illumination variation: 
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig16(2).png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig16(2).png">
 
 Image samples with occlusion variation: 
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig11.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig11.png">
 
 Image samples with backgorund variation: 
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig15(2).png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig15(2).png">
 
 Image samples with viewpoint variation: 
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig10.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig10.png">
 
 Image samples with proportion variation: 
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Fig12.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig12.png">
 
 
