@@ -7,9 +7,9 @@ KMD is a large-scale object detection dataset in the maritime domain. It has a t
 classes namely ship (3,791,372 instances), buoy (67,048 instances), fishnet buoy (273,051 instances), lighthouse (103,358 instances) and wind farm (338,673 instances). The dataset is collected from 21 territotial waters of South Korea and is split in to train (1,729,601 images), validation (211,038 images) and test (210,831 images) sets.
 
 # Dataset Download
-If you wish to download the dataset, please fill this [Google request form].
+If you wish to download the dataset, please fill this [Google request form](https://docs.google.com/forms/d/e/1FAIpQLScaZT7D7nSwNR9n2rco4FaoqEvQQVR9PreNnn92PIxxWlSD4g/viewform).
 
-https://docs.google.com/forms/d/e/1FAIpQLScaZT7D7nSwNR9n2rco4FaoqEvQQVR9PreNnn92PIxxWlSD4g/viewform. 
+. 
 
 Once accepted, we shall mail you the link to download our dataset.
 
