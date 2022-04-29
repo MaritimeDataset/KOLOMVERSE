@@ -1,4 +1,4 @@
-# KMD-Maritime-Dataset
+# KOLOMVERSE
 (This page is under construction.)
 This is a repository that contains codes to train and reproduce results of the paper submitted to Datasets and Benchmarks Track of NeurIPS 2022 titled "KMD: A large-scale public dataset for maritime object detection". 
  <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig4-2.png">
