@@ -4,7 +4,7 @@ This is a repository that contains codes to train and reproduce results of the p
 object detection in the maritime universe". 
  <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig4-2.png">
 # Overview
-KMD is a large-scale object detection dataset in the maritime domain. It has a total of 2,151,470 4K resolution images categorized into 5 different
+KOLOMVERSE is a large-scale object detection dataset in the maritime domain. It has a total of 2,151,470 4K resolution images categorized into 5 different
 classes namely ship (3,791,372 instances), buoy (67,048 instances), fishnet buoy (273,051 instances), lighthouse (103,358 instances) and wind farm (338,673 instances). The dataset is collected from 21 territotial waters of South Korea and is split in to train (1,729,601 images), validation (211,038 images) and test (210,831 images) sets.
 
 # Dataset Download
@@ -16,14 +16,14 @@ Once accepted, we shall mail you the link to download our dataset.
 
 # Dataset Statistics
 
-Distribution of train-test-validation split in the 21 territories of KMD. <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig19.png">
-The KMD images are categorized into 5 different
+Distribution of train-test-validation split in the 21 territories of KOLOMVERSE. <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig19.png">
+The KOLOMVERSE images are categorized into 5 different
 classes namely ship (3,791,372 instances), buoy (67,048 instances), fishnet buoy (273,051 instances), 
 lighthouse (103,358 instances) and wind farm (338,673 instances). <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig4-1.png">
 
 # Variations in the dataset
-KMD has variations in illumination, viewpoint, occlusion, background, scale and proportion that makes object detectors trained
-with KMD more suitable for real time applications.
+KOLOMVERSE has variations in illumination, viewpoint, occlusion, background, scale and proportion that makes object detectors trained
+with KOLOMVERSE more suitable for real time applications.
 
 Image samples with illumination variation: 
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig16(2).png">
