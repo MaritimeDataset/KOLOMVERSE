@@ -1,6 +1,6 @@
 # KOLOMVERSE
 
-This is a repository that contains codes to train and reproduce results of the paper submitted to Datasets and Benchmarks Track of NeurIPS 2022 titled "KOLOMVERSE: An open large-scale dataset for
+This is a repository that contains links to the KOLOMVERSE dataset and codes to train and reproduce results of the paper submitted to Datasets and Benchmarks Track of NeurIPS 2022 titled "KOLOMVERSE: An open large-scale dataset for
 object detection in the maritime universe". 
  <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig4-2.png">
 # Overview
