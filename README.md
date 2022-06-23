@@ -17,6 +17,8 @@ Once accepted, we shall mail you the link to download our dataset.
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig24.png">
 
 # Experimental results
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig14.png">
+
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig25.png">
 
 
@@ -28,7 +30,7 @@ Once accepted, we shall mail you the link to download our dataset.
 
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig29.png">
 
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig14.png">
+
 
 # Dataset Statistics
 
