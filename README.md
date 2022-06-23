@@ -12,7 +12,14 @@ If you wish to download the dataset, please fill this [Google request form](http
 Once accepted, we shall mail you the link to download our dataset.
 
 # Explanation of codes and scripts
-(This part is under construction.)
+Image samples with illumination variation: 
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig24.png">
+
+Image samples with occlusion variation: 
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig25.png">
+
+Image samples with backgorund variation: 
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig26.png">
 
 # Dataset Statistics
 
