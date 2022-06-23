@@ -28,7 +28,7 @@ Once accepted, we shall mail you the link to download our dataset.
 
 <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig29.png">
 
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig30.png">
+<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig14.png">
 
 # Dataset Statistics
 
