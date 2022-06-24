@@ -3,7 +3,7 @@
 This is a repository that contains links to the KOLOMVERSE dataset and codes to train and reproduce results of the paper submitted to Datasets and Benchmarks Track of NeurIPS 2022 titled "KOLOMVERSE: An open large-scale dataset for
 object detection in the maritime universe". 
  <img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig4-2.png">
- The paper for this dataset can be found in this [link] (https://arxiv.org/abs/2206.09885)
+ The paper for this dataset can be found in this [link](https://arxiv.org/abs/2206.09885)
 # Overview
 KOLOMVERSE is a large-scale object detection dataset in the maritime domain. It has a total of 2,151,470 4K resolution images categorized into 5 different
 classes namely ship (3,791,372 instances), buoy (67,048 instances), fishnet buoy (273,051 instances), lighthouse (103,358 instances) and wind farm (338,673 instances). The dataset is collected from 21 territotial waters of South Korea and is split in to train (1,729,601 images), validation (211,038 images) and test (210,831 images) sets.
