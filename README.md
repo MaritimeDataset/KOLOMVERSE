@@ -12,24 +12,6 @@ If you wish to download the dataset along with the codes and scripts, please fil
 Once accepted, we shall mail you the link to download our dataset.
 
 
-# Comparison with other maritime datasets
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig24.png">
-
-# Experimental results
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig14.png">
-
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig25.png">
-
-
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig26.png">
-
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig27.png">
-
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig28.png">
-
-<img src= "https://github.com/kmdMaritimeDataset/KMD-Maritime-Dataset/blob/main/Images/Fig29.png">
-
-
 
 # Dataset Statistics
 
