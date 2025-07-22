@@ -8,7 +8,7 @@ KOLOMVERSE is a large-scale object detection dataset in the maritime domain. It 
 classes namely ship (393,936 instances), buoy (34,080 instances), fishnet buoy (95,815 instances), lighthouse (60,362 instances) and wind farm (147,846 instances). The dataset is collected from 21 territotial waters of South Korea and is split in to train (49,175 images), validation (18,643 images) and test (18,601 images) sets.
 
 # Dataset Download
-If you wish to download the dataset along with the codes and scripts, please fill this [Google request form]([https://docs.google.com/forms/d/e/1FAIpQLScaZT7D7nSwNR9n2rco4FaoqEvQQVR9PreNnn92PIxxWlSD4g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSexxqTdY32CKhYBSP7r8c8RiKN7NHUf8PLtAMBXBD4rL9TxmA/viewform?usp=dialog)).
+If you wish to download the dataset along with the codes and scripts, please fill this [Google request form](https://docs.google.com/forms/d/e/1FAIpQLSexxqTdY32CKhYBSP7r8c8RiKN7NHUf8PLtAMBXBD4rL9TxmA/viewform?usp=dialog).
 Once accepted, we shall mail you the link to download our dataset.
 
 
